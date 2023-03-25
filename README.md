@@ -1,4 +1,4 @@
-# mongodb-dev
+# Mongo DB Autosetup
 Setup MongoDB for Development
 
 Script Install MongoDB and allow connections from 0.0.0.0.
