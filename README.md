@@ -6,8 +6,8 @@ Please use only for Development / Tests, Never allow connections from 0.0.0.0 in
 Tested on: Debain 11, Ubuntu 22.10.
 
 Open terminal and Copy & Paste Command:
-```http
-  curl https://raw.githubusercontent.com/0x00V1NDE77A/mongodb-dev/main/mongodb-dev.sh | sh
+```
+curl https://raw.githubusercontent.com/0x00V1NDE77A/mongodb-dev/main/mongodb-dev.sh | sh
 ```
 
 ## Looking where to host all your infrastructure? (Get 200$ Free Credit)
